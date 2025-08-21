@@ -70,3 +70,10 @@ UI Component Kit (PDF)
 ✅ Conclusion
 
 This project demonstrates how luxury branding can be translated into a modern digital experience. The design is clean, elegant, and customer-focused, making it easy for users to explore collections, understand key product features, and take action.
+
+
+## 📂 Repository Link
+You can view and download all project files (PDFs, design components, and case study) from the GitHub repository:
+
+[👉 Click here to open the Repository](https://github.com/username/final-project-uiux)
+
